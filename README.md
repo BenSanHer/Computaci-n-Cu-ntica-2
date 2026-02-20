@@ -8,4 +8,5 @@ y la teoría se basa en las notas manuscritas sobre las cuales estoy trabajando.
 Notebooks:
 
 -Sesión 1: Repaso de Qiskit Pt 1
+
 -Sesión 2: Algoritmo de Deutsch-Jozsa
