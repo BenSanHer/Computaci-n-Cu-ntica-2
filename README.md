@@ -13,3 +13,7 @@ Notebooks:
 
 -Sesión 3: Introducción a Pennylane
 
+-Sesión 4: Algoritmo de Bernstein-Vazirani
+
+-Sesión 5: Algoritmo de Simon
+
